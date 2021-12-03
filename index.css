@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 1.5em;
+}
+
+h1,input{
+    text-align: center;
+}
+
+.userinput {
+    width: 50%;
+    height: 2em;
+    font-size: 1em
+}
+
+.enter {
+    height: 2.4em;
+    font-size: 1em;
+    margin-left:3em
+}
+
+.container {
+    text-align: center;
+}
+
+.done {
+    text-decoration: line-through;
+}
